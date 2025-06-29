@@ -50,7 +50,7 @@ def llegir_ticket(ruta):
     return df
 
 
-carpeta = r"C:\Users\crist\OneDrive\Desktop\tfg\Mercadona"
+carpeta = r"C:\Users\crist\OneDrive\Documents\GitHub\Analisi-de-dades-mitjansant-Business-Intelligence-Un-estudi-de-casos-practics\codi\Mercadona"
 sortida = "ticket_dataset.csv"
 
 existeix = os.path.exists(sortida)

@@ -40,7 +40,7 @@ steam_ids = [
 
 ]
 
-csv_file = r'C:\Users\crist\OneDrive\Desktop\tfg\steam\steam_games.csv'
+csv_file = r'C:\Users\crist\OneDrive\Documents\GitHub\Analisi-de-dades-mitjansant-Business-Intelligence-Un-estudi-de-casos-practics\codi\Steam\steam_games.csv'
 
 existing = []
 
