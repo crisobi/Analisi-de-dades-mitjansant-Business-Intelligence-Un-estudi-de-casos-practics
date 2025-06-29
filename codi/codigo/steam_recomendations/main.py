@@ -31,7 +31,7 @@ def main():
     print(f"\n Recomanacions col·laboratives per {usuari_id}:")
     print(recs_colab)
 
-    recs_contingut['sim_norm'] = normalitza(recs_contingut['similarity'])
+    recs_contingut['sim_norm'] = normalitza(recs_contingut['sim'])
     recs_colab['score_norm'] = normalitza(recs_colab['score'])
 
     if 'appid' not in recs_contingut.columns:
