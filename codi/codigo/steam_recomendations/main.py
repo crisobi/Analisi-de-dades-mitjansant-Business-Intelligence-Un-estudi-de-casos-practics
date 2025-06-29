@@ -24,7 +24,7 @@ def main():
     jocs_usuari = df_usuaris[df_usuaris['SteamID'] == usuari_id]
 
     recs_contingut = generate_recommendations(jocs_usuari, df_jocs)
-    print(f"\n Recomanacions per contingut per {usuari_id}:")
+    print(f"\nRecomanacions per contingut per {usuari_id}:\n")
     print(recs_contingut)
 
     recs_colab = generate_collaborative_recommendations(df_usuaris, df_jocs, usuari_id)
