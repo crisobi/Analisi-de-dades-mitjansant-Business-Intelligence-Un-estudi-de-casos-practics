@@ -4,7 +4,4 @@ Per això s'ha fet un anàlisis de dades d'un client de Mercadona, i un altre de
 
 En aquest repositori es pot trobar el codi utilitzat pels dos casos a la carpeta codi, els informes progressius durant el treball i el final a la carpeta informes, i els gràfics generats amb Power BI a la carpeta powerBI.
 
-E-mail de contacte: cristinasolerb10@gmail.com
-Menció realiada: Enginyeria del Software
-Treball tutoriat per: Coen Antens
-Curs 2024/2025
+E-mail de contacte: cristinasolerb10@gmail.com, Menció realiada: Enginyeria del Software, Treball tutoriat per: Coen Antens, Curs 2024/2025
